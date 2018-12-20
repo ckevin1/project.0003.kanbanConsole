@@ -1,0 +1,6 @@
+C:\Users\kevin.hawkins\Source\Repos\project.0003.kanbanConsole\kanbanConsole\bin\Debug\kanbanConsole.exe.config
+C:\Users\kevin.hawkins\Source\Repos\project.0003.kanbanConsole\kanbanConsole\bin\Debug\kanbanConsole.exe
+C:\Users\kevin.hawkins\Source\Repos\project.0003.kanbanConsole\kanbanConsole\bin\Debug\kanbanConsole.pdb
+C:\Users\kevin.hawkins\Source\Repos\project.0003.kanbanConsole\kanbanConsole\obj\Debug\kanbanConsole.csprojResolveAssemblyReference.cache
+C:\Users\kevin.hawkins\Source\Repos\project.0003.kanbanConsole\kanbanConsole\obj\Debug\kanbanConsole.exe
+C:\Users\kevin.hawkins\Source\Repos\project.0003.kanbanConsole\kanbanConsole\obj\Debug\kanbanConsole.pdb
